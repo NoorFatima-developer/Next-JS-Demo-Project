@@ -1,6 +1,0 @@
-export const Greet = () => {
-    console.log("Greet component");
-    return <h1>Greet component</h1>     //Created on server component...
-}
-
-// In react js, the default components are server components...
